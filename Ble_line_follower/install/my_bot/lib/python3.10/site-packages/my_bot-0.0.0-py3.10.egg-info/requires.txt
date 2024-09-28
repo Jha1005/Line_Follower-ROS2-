@@ -1,0 +1,6 @@
+asyncio
+bleak
+pyserial
+rclpy
+setuptools
+std_msgs

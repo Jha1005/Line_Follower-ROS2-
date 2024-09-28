@@ -1,0 +1,22 @@
+[0.399s] Invoking command in '/home/pushpanjali/serial_line_follower/build/my_bot': PYTHONPATH=/home/pushpanjali/serial_line_follower/build/my_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pushpanjali/serial_line_follower/install/my_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/pushpanjali/serial_line_follower/build/my_bot/build --no-deps symlink_data --force
+[0.591s] running develop
+[0.591s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.591s]   warnings.warn(
+[0.690s] running egg_info
+[0.690s] writing my_bot.egg-info/PKG-INFO
+[0.690s] writing dependency_links to my_bot.egg-info/dependency_links.txt
+[0.690s] writing entry points to my_bot.egg-info/entry_points.txt
+[0.690s] writing requirements to my_bot.egg-info/requires.txt
+[0.690s] writing top-level names to my_bot.egg-info/top_level.txt
+[0.691s] reading manifest file 'my_bot.egg-info/SOURCES.txt'
+[0.692s] writing manifest file 'my_bot.egg-info/SOURCES.txt'
+[0.693s] running build_ext
+[0.693s] Creating /home/pushpanjali/serial_line_follower/install/my_bot/lib/python3.10/site-packages/my-bot.egg-link (link to .)
+[0.693s] Installing ir_node script to /home/pushpanjali/serial_line_follower/install/my_bot/lib/my_bot
+[0.693s] Installing motor_control script to /home/pushpanjali/serial_line_follower/install/my_bot/lib/my_bot
+[0.693s] 
+[0.693s] Installed /home/pushpanjali/serial_line_follower/build/my_bot
+[0.694s] running symlink_data
+[0.694s] symbolically linking /home/pushpanjali/serial_line_follower/build/my_bot/resource/my_bot -> /home/pushpanjali/serial_line_follower/install/my_bot/share/ament_index/resource_index/packages
+[0.694s] symbolically linking /home/pushpanjali/serial_line_follower/build/my_bot/package.xml -> /home/pushpanjali/serial_line_follower/install/my_bot/share/my_bot
+[0.716s] Invoked command in '/home/pushpanjali/serial_line_follower/build/my_bot' returned '0': PYTHONPATH=/home/pushpanjali/serial_line_follower/build/my_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pushpanjali/serial_line_follower/install/my_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/pushpanjali/serial_line_follower/build/my_bot/build --no-deps symlink_data --force

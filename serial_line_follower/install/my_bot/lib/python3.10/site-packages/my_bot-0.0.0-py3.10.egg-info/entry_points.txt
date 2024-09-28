@@ -1,0 +1,4 @@
+[console_scripts]
+ir_node = my_bot.ir_node:main
+motor_control = my_bot.motor_control:main
+

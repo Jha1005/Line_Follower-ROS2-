@@ -1,0 +1,26 @@
+[0.382s] Invoking command in '/home/pushpanjali/Downloads/serial_line_follower/src/my_bot': PYTHONPATH=/home/pushpanjali/Downloads/serial_line_follower/build/my_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pushpanjali/Downloads/serial_line_follower/install/my_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_bot build --build-base /home/pushpanjali/Downloads/serial_line_follower/build/my_bot/build install --record /home/pushpanjali/Downloads/serial_line_follower/build/my_bot/install.log --single-version-externally-managed install_data
+[0.533s] running egg_info
+[0.533s] writing ../../build/my_bot/my_bot.egg-info/PKG-INFO
+[0.534s] writing dependency_links to ../../build/my_bot/my_bot.egg-info/dependency_links.txt
+[0.534s] writing entry points to ../../build/my_bot/my_bot.egg-info/entry_points.txt
+[0.534s] writing requirements to ../../build/my_bot/my_bot.egg-info/requires.txt
+[0.534s] writing top-level names to ../../build/my_bot/my_bot.egg-info/top_level.txt
+[0.536s] reading manifest file '../../build/my_bot/my_bot.egg-info/SOURCES.txt'
+[0.543s] writing manifest file '../../build/my_bot/my_bot.egg-info/SOURCES.txt'
+[0.543s] running build
+[0.543s] running build_py
+[0.543s] copying my_bot/blue.py -> /home/pushpanjali/Downloads/serial_line_follower/build/my_bot/build/lib/my_bot
+[0.543s] running install
+[0.543s] running install_lib
+[0.544s] copying /home/pushpanjali/Downloads/serial_line_follower/build/my_bot/build/lib/my_bot/blue.py -> /home/pushpanjali/Downloads/serial_line_follower/install/my_bot/lib/python3.10/site-packages/my_bot
+[0.544s] byte-compiling /home/pushpanjali/Downloads/serial_line_follower/install/my_bot/lib/python3.10/site-packages/my_bot/blue.py to blue.cpython-310.pyc
+[0.545s] running install_data
+[0.545s] running install_egg_info
+[0.547s] removing '/home/pushpanjali/Downloads/serial_line_follower/install/my_bot/lib/python3.10/site-packages/my_bot-0.0.0-py3.10.egg-info' (and everything under it)
+[0.547s] Copying ../../build/my_bot/my_bot.egg-info to /home/pushpanjali/Downloads/serial_line_follower/install/my_bot/lib/python3.10/site-packages/my_bot-0.0.0-py3.10.egg-info
+[0.548s] running install_scripts
+[0.561s] Installing blue script to /home/pushpanjali/Downloads/serial_line_follower/install/my_bot/lib/my_bot
+[0.562s] Installing ir_node script to /home/pushpanjali/Downloads/serial_line_follower/install/my_bot/lib/my_bot
+[0.562s] Installing motor_control script to /home/pushpanjali/Downloads/serial_line_follower/install/my_bot/lib/my_bot
+[0.562s] writing list of installed files to '/home/pushpanjali/Downloads/serial_line_follower/build/my_bot/install.log'
+[0.580s] Invoked command in '/home/pushpanjali/Downloads/serial_line_follower/src/my_bot' returned '0': PYTHONPATH=/home/pushpanjali/Downloads/serial_line_follower/build/my_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pushpanjali/Downloads/serial_line_follower/install/my_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_bot build --build-base /home/pushpanjali/Downloads/serial_line_follower/build/my_bot/build install --record /home/pushpanjali/Downloads/serial_line_follower/build/my_bot/install.log --single-version-externally-managed install_data
